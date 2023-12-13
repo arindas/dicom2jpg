@@ -29,7 +29,7 @@ setup(
     #['dicom2jpg'],
     install_requires=['pydicom',
                       'numpy', 
-                      'opencv-python',
+                      'opencv-python-headless',
                       'pylibjpeg',
                       'pylibjpeg-libjpeg',
                       'pylibjpeg-openjpeg',
