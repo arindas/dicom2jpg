@@ -5,7 +5,7 @@ Converts DICOM to `JPG/PNG/BMP/TIFF` and `numpy.ndarray`
 
 # Installation
 ```
-pip install dicom2jpg
+pip install git+https://github.com/arindas/dicom2jpg.git
 ```
 
 # Introdunction
